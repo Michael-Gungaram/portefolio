@@ -14,9 +14,10 @@
         </p>
         <h4>Avec le recul...</h4>
         <p>
-            Je l'ai abordé pour la première fois en entreprise avec ROC. J'avais envie de découvrir ce Framework, 
+            Je l'ai abordé pour la première fois en entreprise avec <router-link to="/work/roc">ROC</router-link>. J'avais envie de découvrir ce Framework, 
             et c'était l'occasion. Seul. Avec l'expérience de Vue.js, cela m'a bien aidé à aborder les choses. 
             Les deux reposent sur, d'une manière globale les mêmes concepts.
+            J'ai pu approfondir mes connaissances sur ce framework grâce à <router-link to="/work/bmb">Be My Bee</router-link>.
         </p>
     </div>
 </template>

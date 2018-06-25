@@ -18,7 +18,7 @@
             propres. À comprendre ce que j'écrivais. Le chemin fut difficile mais c'est à partir de ce moment précis que j'ai voulu me spécialiser sur ce 
             langage, car il offrait beaucoup de possibilités de par sa souplesse, à la fois dangereuse et motrice de créativité. 
             En effet, quand je rencontrais des problèmes, parfois je mettais plusieurs jours car, eh bien, nous sommes en entreprise. Parce exemple, lorsque 
-            je travaillais sur InvBack, tout le monde n'est pas forcément à votre disposition à l'instant T. Dès lors, j'ai dû faire preuve d'autonomie. Cela 
+            je travaillais sur <router-link to="/work/invback">InvBack</router-link>, tout le monde n'est pas forcément à votre disposition à l'instant T. Dès lors, j'ai dû faire preuve d'autonomie. Cela 
             m'a valu 2 ou 3 jours de recherches. Mais à la fin des investigations, ma tâche était accomplie et je contemplais ma satisfaction, tout simplement.  
         </p>
         <h4>Quel recul par rapport à mon apprentissage ?</h4>

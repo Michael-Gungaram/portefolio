@@ -10,11 +10,11 @@
         </p>
         <h4>Mon travail</h4>
         <p>
-            J'ai surtout travaillé sur l'application front, avec Angular, pour les boutiques 
+            J'ai surtout travaillé sur l'application front, avec <router-link to="/skills/technical/angular">Angular</router-link>, pour les boutiques 
             et la gestion de leurs commandes en temps réel. Ici j'ai pu bénéficier de pas 
-            mal de conseils de mon formateur, qui m'a aidé pour InvBack, qui était également 
-            développeur back-end sur ce projet. 
-            J'ai pu travailler aussi en étroite collaboration avec le CEO de BeMyBee.
+            mal de conseils de mon formateur, qui m'a aidé pour <router-link to="/work/invback">InvBack</router-link>, qui était également 
+            <router-link to="/skills/soft/communication">développeur back-end sur ce projet</router-link>. 
+            J'ai pu travailler aussi en <router-link to="/skills/soft/communication">étroite collaboration avec le CEO de BeMyBee</router-link>.
         </p>
         <h4>À termes</h4>
         <p>

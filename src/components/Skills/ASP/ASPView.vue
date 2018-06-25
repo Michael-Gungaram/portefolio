@@ -8,8 +8,8 @@
         </p>
         <h4>L'expérience Nette</h4>
         <p>
-            Je l'ai principalement utilisé pour ROC, pour du parsing de fichier Excel. 
-            Le projet partait de zéro, alors j'ai également saisi l'opportunité d'écrire le back-end de ROC en ASP .NET Core. 
+            Je l'ai principalement utilisé pour <router-link to="/work/roc">ROC</router-link>, pour du parsing de fichier Excel. 
+            Le projet partait de zéro, alors j'ai également saisi l'opportunité d'écrire le back-end de <router-link to="/work/roc">ROC</router-link> en ASP .NET Core. 
             Je connais plutôt bien le C# et sa stack ASP .NET car j'ai débuté les concepts de la POO à l'école et j'ai 
             pu voir de manière assez approfondie ce langage et ce framework. Niveau formation je n'ai donc pas eu de difficultés à 
             approfondir les compétences, et l'acquisition de connaissances s'est faite progressivement, dans un cadre scolaire. Je pense 

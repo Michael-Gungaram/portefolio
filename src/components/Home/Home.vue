@@ -1,6 +1,6 @@
 <template>
     <div id="home" class="ui piled segment">
-      <img src="../../assets/identity.png" alt="">
+      <img src="../../assets/me.jpg" alt="">
       <div class="introduction">
         <h2 class="title">Michaël Gungaram : un programmeur qu'ils disent</h2>
         <p>
@@ -82,7 +82,7 @@ export default {
 </script>
 <style scoped>
   img {
-    width: 150px;
+    width: 220px;
     height: 150px;
     float: left;
     margin-right: 16px;

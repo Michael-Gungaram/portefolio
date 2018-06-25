@@ -14,7 +14,7 @@
             la mise en production de plusieurs versions de l'API, c'est comme cela qu'il a été décidé 
             d'écrire une infrastructures de tests afin d'être sereins à chaque déploiement en production 
             d'une nouvelle version du produit, puisque les tests seraient effectués.
-            J'ai pu travailler avec 3 développeurs Back-End, ainsi qu'un chef de projet afin d'écrire 
+            J'ai pu travailler <router-link to="/skills/soft/communication">avec 3 développeurs Back-End, ainsi qu'un chef de projet</router-link> afin d'écrire 
             des tests fonctionnels ciblés. Pour le moment, je les exécute manuellement afin de vérifier 
             si tout fonctionne correctement.
 
@@ -22,8 +22,8 @@
         <h4>Quel recul avoir ?</h4>
         <p>
             J'ai pu réaliser de A à Z une architecture, dans un premier temps écrite en 
-            Vanilla JavaScipt, puis dans un second temps, j'ai opté pour une réécriture totale 
-            en Vanilla TypeScript. Cela m'a permis d'avoir une architecture plus adaptée à ce que 
+            <router-link to="/skills/technical/js">Vanilla JavaScipt</router-link>, puis dans un second temps, j'ai opté pour une réécriture totale 
+            en <router-link to="/skills/technical/ts">Vanilla TypeScript</router-link>. Cela m'a permis d'avoir une architecture plus adaptée à ce que 
             je voulais créer. 
         </p>
     </div>

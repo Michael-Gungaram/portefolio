@@ -3,14 +3,14 @@
         <h2>InvBack</h2>
         <h4>La renaissance d'InvBack</h4>
         <p>
-            InvBack  est une application Web interne qui est un CMS.  Il permet de pouvoir avoir la main 
+            InvBack est une application Web interne qui est un CMS.  Il permet de pouvoir avoir la main 
             sur la gestion de leurs factures, devis, bons de commandes de manière simple et efficace.
         </p>
         <h4>Mon travail a priori</h4>
         <p>
             C’était donc a priori beaucoup de travail côté Back-End. Tant mieux au final, car c’est 
             j’avais développé la plupart du temps sur cette partie des applications réalisées à IN’TECH. 
-            Au niveau des technologies utilisées, c’était du ASP .NET C#, j’étais donc a priori plutôt 
+            Au niveau des technologies utilisées, c’était du <router-link to="/skills/technical/aspnet">ASP .NET C#</router-link>, j’étais donc a priori plutôt 
             à l’aise pour ce travail. 
             Dans un premier temps, je devais réaliser un audit technique de l’application entière, à 
             savoir répertorier les bugs, et aussi donner quelques suggestions sur ce qui pourrait être 
@@ -38,8 +38,8 @@
             En effet, il ne s’agissait plus de réaliser diverses fonctionnalités pour enrichir l’application 
             ; désormais, il était question d’une refonte totale de l’application pour en faire un produit 
             fini et surtout commercialisable. Le nouveau InvBack était né. Un nouveau MVP à créer de toutes 
-            pièces avec Vue.js. 
-            C'est grâce à ce produit que j'ai pu en retirer ma première expérience front-end.
+            pièces avec <router-link to="/skills/technical/vue">Vue.js</router-link>. 
+            C'est grâce à ce produit que j'ai pu en retirer ma première expérience <router-link to="/skills/technical/ts">front-end</router-link>.
 
         </p>
     </div>

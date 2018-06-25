@@ -15,7 +15,7 @@
             J'ai ainsi développé ma première application Web avec ce langage. Le TypeScript est peut-être plus facile à 
             aborder que le JavaScript et c'est probablement la raison qui a fait que j'y ai pris goût, car TypeScript offre 
             un éco-système très confortable pour ceux qui ont un 
-            background d'origine en C# ou ASP .NET. Tout cela nous est familier. Mais cela est parfois un peu vicieux car le développement 
+            background d'origine en <router-link to="/skills/technical/aspnet">C# ou ASP .NET.</router-link> Tout cela nous est familier. Mais cela est parfois un peu vicieux car le développement 
             front-end a bel et bien ses spécificités, et ce n'est pas comme en développement Back-End. C'est ainsi que je pense que dissocier 
             TypeScript et JavaScript n'a aucun sens ; tout code TypeScript est du code <router-link to="/skills/technical/js">JavaScript</router-link> sous-jacent. 
             Avec tout le confort de développement et l'expérience développeur qu'offre TypeScript, l'infrastructure de tests que j'avais écrit 
