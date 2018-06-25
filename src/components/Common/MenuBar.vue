@@ -3,13 +3,13 @@
       <sui-menu-item>
         <router-link to="/">Accueil</router-link>
       </sui-menu-item>
-      <sui-dropdown item icon="dropdown" text="Compétences">
+      <sui-dropdown item icon="dropdown" text="Connaissances">
         <sui-dropdown-menu>
           <sui-dropdown-item>
-            <router-link to="/skills">Techniques</router-link>
+            <router-link to="/skills/technical">Techniques</router-link>
           </sui-dropdown-item>
           <sui-dropdown-item>
-            Humaines
+            <router-link to="/skills/soft">Transverses</router-link>
           </sui-dropdown-item>
         </sui-dropdown-menu>
       </sui-dropdown>
