@@ -1,7 +1,7 @@
 <template>
     <div class="item">
         <div class="image">
-            <img src="https://www.iconspng.com/images/angular/angular.jpg" alt="">
+            <img src="../../../assets/angular.jpg" alt="">
         </div>
         <div class="content">
             <a class="header">

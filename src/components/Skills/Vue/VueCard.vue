@@ -1,7 +1,7 @@
 <template>
     <div class="item">
         <div class="image">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Vue.svg" alt="">
+            <img src="../../../assets/vue.svg" alt="">
         </div>
         <div class="content">
             <a class="header">

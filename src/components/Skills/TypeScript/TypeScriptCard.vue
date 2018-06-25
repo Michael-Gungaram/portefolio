@@ -1,7 +1,7 @@
 <template>
     <div class="item">
         <div class="image">
-            <img src="https://raw.githubusercontent.com/remojansen/logo.ts/master/ts.png" alt="">
+            <img src="../../../assets/ts.png" alt="">
         </div>
         <div class="content">
             <a class="header">

@@ -1,7 +1,7 @@
 <template>
     <div class="item">
         <div class="image">
-            <img src="https://pgroene.files.wordpress.com/2018/02/asp-net-core-logo-1.png" alt="">
+            <img src="../../../assets/aspnet.png" alt="">
         </div>
         <div class="content">
             <a class="header">

@@ -1,7 +1,7 @@
 <template>
     <div class="item">
         <div @click.native="toggle" class="image">
-            <img src="https://cdn-images-1.medium.com/max/300/1*yYcXoIyTb8JlZUsmRXNm3g.png" alt="">
+            <img src="../../../assets/js.png" alt="">
         </div>
         <div class="content">
             <div class="header">
