@@ -79,21 +79,21 @@
     </div>
 </template>
 <script>
-export default {
-  name: 'Home'
-}
-</script>
-<style scoped>
-  img {
-    width: 220px;
-    height: 150px;
-    float: left;
-    margin-right: 16px;
+  export default {
+    name: 'Home'
   }
+  </script>
+  <style scoped>
+    img {
+      width: 220px;
+      height: 150px;
+      float: left;
+      margin-right: 16px;
+    }
 
-  .introduction {
-    margin-left: 16px;
-    text-align: justify;
-    font-size: 17px;
-  }
+    .introduction {
+      margin-left: 16px;
+      text-align: justify;
+      font-size: 17px;
+    }
 </style>
