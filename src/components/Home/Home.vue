@@ -2,7 +2,7 @@
     <div id="home" class="ui piled segment">
       <img src="../../assets/me.jpg" alt="">
       <div class="introduction">
-        <h2 class="title">Michaël Gungaram : un programmeur qu'ils disent</h2>
+        <h2 class="title">Un programmeur qu'ils disent</h2>
         <p>
           Bonjour ! Et bienvenue sur mon portefolio. Si j'ai décidé de créer ce dernier, c'est tout simplement que 
           l'école m'a littéralement forcé.
@@ -72,6 +72,9 @@
           une grande place à la rigueur et la précision. 
         </p>
         <p>Bonne lecture !</p>
+        <p>
+          <i>Michaël Gungaram</i>
+        </p>
       </div>
     </div>
 </template>
