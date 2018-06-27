@@ -1,5 +1,5 @@
 <template>
-    <pdf src="../../../static/CV-PF.pdf"></pdf>
+    <pdf src="./static/CV-PF.pdf"></pdf>
 </template>
 <script>
     import pdf from 'vue-pdf';
