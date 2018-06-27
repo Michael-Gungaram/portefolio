@@ -18,6 +18,7 @@ import SicView from '@/components/Work/SIC/SicView';
 import BmBView from '@/components/Work/BMB/BmBView';
 import RocView from '@/components/Work/ROC/RocView';
 import Work from '@/components/Work/Work';
+import CVViewer from '@/components/CV/CV';
 
 Vue.use(Router);
 
@@ -112,6 +113,11 @@ export default new Router({
       path: '/work/sic',
       name: 'sic',
       component: SicView
+    },
+    {
+      path: '/docs/cv',
+      name: 'cv',
+      component: CVViewer
     }
   ]
 })

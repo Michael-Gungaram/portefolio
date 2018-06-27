@@ -17,7 +17,7 @@
         <router-link to="/work">Réalisations</router-link>
       </sui-menu-item>
       <sui-menu-item>
-        <router-link to="/">CV</router-link>
+        <router-link to="/docs/cv">CV</router-link>
       </sui-menu-item>
     </sui-menu>
 </template>
